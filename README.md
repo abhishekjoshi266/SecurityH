@@ -18,10 +18,10 @@ Welcome to the Security Headers Test Tool! This powerful tool is designed to hel
 ## How to Use
 1. **Installation**:
 
-      `git clone https://github.com/abhishekjoshi266/SecurityH`
-      `cd SecurityH`
-    `  chmod +x SecurityH.py`
-    `  python3 SecurityH.py`
+- `git clone https://github.com/abhishekjoshi266/SecurityH`
+- `cd SecurityH`
+- `chmod +x SecurityH.py`
+- `python3 SecurityH.py`
    
 
 ## Security Headers Checked
